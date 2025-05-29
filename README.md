@@ -31,6 +31,14 @@ A simple Java-based inventory management system to track missing or low-stock it
 
 ---
 
+## (Future Improvements) 
+
+- GUI with JavaFX
+- Database (MySQL) integration
+- Stock alerts via email
+
+
+
 ## 🚀 How to Run
 
 1. Compile:
